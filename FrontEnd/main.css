@@ -13,8 +13,22 @@
     
     width : 60px;
     height : 43px;
-    position: fixed;
+   
     top : 59.5px;
     left : 1341px;
     cursor: pointer;
-};
+}
+#container{
+    width: 100vh;
+    height: 100vh;
+    background-color: brown;
+
+}
+#banner{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vh;
+    height: 300px;
+    background-color: blue;
+}
